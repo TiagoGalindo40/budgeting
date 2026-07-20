@@ -7,6 +7,7 @@
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/59161b2d-8bd3-42f7-a4ed-32d90a6e3d76.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/680c9181-96d7-4816-a8eb-d02d98677de4.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/6e03b230-313c-40ef-a26e-6f7ff84b7a86.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/7bca8d59-72ff-4e04-afa8-b723838b5ff8.webp)
 # 🚀 Desafio: Evoluindo uma API Inteligente com Spring AI
 
 Bem-vindo ao desafio prático de integração de Inteligência Artificial com o ecossistema Java! Este projeto foi desenvolvido utilizando **Spring Boot** e **Spring AI**, demonstrando como conectar modelos de linguagem (LLMs) a uma aplicação robusta, mantendo uma arquitetura limpa, organizada e escalável.
