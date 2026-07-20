@@ -4,7 +4,7 @@
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/3e88a455-c220-4e56-bb29-28c046ed6ae7.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/4f30d88f-d8aa-4176-a20e-859537a82a1e.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/53b3769f-668b-4eb3-8c25-86d59d6a0f87.webp)
-
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/59161b2d-8bd3-42f7-a4ed-32d90a6e3d76.webp)
 
 # 🚀 Desafio: Evoluindo uma API Inteligente com Spring AI
 
