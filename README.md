@@ -1,4 +1,4 @@
-![Texto alternativo](caminho_ou_url_da_imagem)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/20ca7bb3-fac4-4de8-919b-b3ee87e551f3.webp)
 
 # 🚀 Desafio: Evoluindo uma API Inteligente com Spring AI
 
