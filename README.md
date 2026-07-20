@@ -1,4 +1,10 @@
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/20ca7bb3-fac4-4de8-919b-b3ee87e551f3.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+
 
 # 🚀 Desafio: Evoluindo uma API Inteligente com Spring AI
 
