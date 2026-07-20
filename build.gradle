@@ -1,0 +1,58 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.2.4'
+	id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'tgs'
+version = '0.0.1-SNAPSHOT'
+description = 'getbudgeting'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(21)
+	}
+}
+
+repositories {
+	mavenCentral()
+	maven { url 'https://repo.spring.io/milestone' }
+}
+
+ext {
+	// Alinhe a versão do Spring AI compatível com a sua versão do Spring Boot 3.x
+	set('springAiVersion', "1.0.0-M1")
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+
+	implementation 'org.springframework.ai:spring-ai-openai-spring-boot-starter'
+
+	implementation 'org.springframework.boot:spring-boot-starter-websocket'
+
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+
+}
+
+dependencyManagement {
+	imports {
+		// Isso garante que todas as dependências internas do Spring AI usem a versão correta
+		mavenBom "org.springframework.ai:spring-ai-bom:${springAiVersion}"
+	}
+}
+
+testing {
+	suites {
+		test {
+			useJUnitJupiter()
+		}
+	}
+}
+
+//tasks.named('test') {
+//	useJUnitPlatform()
+//}
