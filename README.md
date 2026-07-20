@@ -1,7 +1,7 @@
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/20ca7bb3-fac4-4de8-919b-b3ee87e551f3.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/34d12c68-e4b4-49be-8ff3-b57be70feb9e.webp)
-![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
+![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/3e88a455-c220-4e56-bb29-28c046ed6ae7.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
 ![Texto alternativo](https://github.com/TiagoGalindo40/budgeting/blob/main/imgs/29fb95e1-f2e0-41e5-ab21-b66ec7f1f8bb.webp)
 
