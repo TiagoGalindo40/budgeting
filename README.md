@@ -1,3 +1,5 @@
+![Texto alternativo](caminho_ou_url_da_imagem)
+
 # 🚀 Desafio: Evoluindo uma API Inteligente com Spring AI
 
 Bem-vindo ao desafio prático de integração de Inteligência Artificial com o ecossistema Java! Este projeto foi desenvolvido utilizando **Spring Boot** e **Spring AI**, demonstrando como conectar modelos de linguagem (LLMs) a uma aplicação robusta, mantendo uma arquitetura limpa, organizada e escalável.
